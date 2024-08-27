@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align='center'>
 
-<!--
-**xcwl520/xcwl520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![header]][home]
 
-Here are some ideas to get you started:
+[![moe-counter]][home]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![genshin-image]][genshin-link]
+
+[![stats]][home]
+
+[![language]][home]
+
+</div>
+
+[home]: https://github.com/xcwl520
+
+[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=xcwl520&fontSize=45
+[moe-counter]: https://count.getloli.com/get/@RealHeart?theme=rule34
+
+[stats]: https://github-readme-stats.vercel.app/api?username=xcwl520&locale=cn&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true
+[language]: https://github-readme-stats.vercel.app/api/top-langs?username=xcwl520&locale=cn&show_icons=true&theme=transparent&card_width=470&hide_border=true
+
+[genshin-image]: https://genshin-card.himiku.com/rand/382929579.png
+[genshin-link]: https://enka.network/u/278373848
